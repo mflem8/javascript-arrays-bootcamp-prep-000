@@ -1,0 +1,3 @@
+ var addElementToBeginningOfArray
+ 
+ var destructivelyAddElementToBeginningOfArray
